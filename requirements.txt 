@@ -1,0 +1,4 @@
+argparse==1.4.0
+pandas==2.1.0
+numpy==1.25.2
+keras==2.13.1
